@@ -1,0 +1,26 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #ffffff; /* white text color */
+  background-color: #000000; /* black background color */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #ffcc00; /* yellow link text color */
+  border-bottom: 1px solid #007bff; /* underline effect */
+}
+
+a:hover {
+  color: #aaaaaa; /* lighter gray text color on hover */
+  border-bottom-color: #0056b3; /* darker gray border color on hover */
+}
